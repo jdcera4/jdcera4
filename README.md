@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Cera</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdcera4" alt="jdcera4" /></a> </p>
-
 - 🔭 I’m currently working on **Holberton School proyects**
 
 - 🌱 I’m currently learning **C, python, JavaScript, bash, Html, Css**
